@@ -69,3 +69,14 @@ Future Improvements
 - Interactive spending insights
 - Improved data visualization
 - Cloud database integration
+
+## Screenshots
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Monthly Budget
+![Budget](screenshots/budget.png)
+
+### Expense Reports
+![Reports](screenshots/reports.png)
